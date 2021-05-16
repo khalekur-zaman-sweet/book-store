@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    margin-left: 2%;
+    font-size: 30px;
+}
+.menu{
+    margin-left: %;
+}
+.menu ul li{
+    margin-left: 10%;
+}
+.search{
+    margin-right: 3%;
+}
+.search .search-btn{
+    margin-left: -3%;
+    outline: none;
+    border:2px solid red;
+    padding: 10px;
+    border-radius: 0 25px 25px 0;
+    color: #000;
+    border-left: none;
+
+}
+.search .search-fild{
+    width: 50vh;
+   outline: none;
+   border: 2px solid red;
+   border-radius: 25px 0 0 25px ;
+}
+/* -------slider-------- */
+.book{
+    margin-left: 20%;
+}
+.banner-1{
+    /* background: url(assets/banner2.jpg); */
+    background: rgb(221, 216, 216);
+    width: 100%;
+    height: 90vh;
+    background-size: cover;
+    background-position: center;
+}
+.banner-2{
+    background: rgb(221, 216, 216);
+    width: 100%;
+    height: 90vh;
+    background-size: cover;
+    background-position: center;
+}
+.banner-3{
+    background: rgb(221, 216, 216);
+    width: 100%;
+    height: 90vh;
+    background-size: cover;
+    background-position: center;
+
+ }
+ .Writer a{
+     text-decoration: none;
+     color: black;
+ }
+
+/*---------humayun-------- */
+
+.humayun{
+    background: rgb(221, 216, 216);
+
+}
+.active-1{
+    background: lightcoral;
+    color: black;
+}
+
+/* ----------book scroll--------- */
+
+.scroll{
+    
+  width: 100%;
+  height: 250vh;
+  
+  overflow: scroll;
+}
+

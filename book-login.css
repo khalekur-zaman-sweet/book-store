@@ -1,0 +1,376 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+input{
+    width: 80vh;
+    height: 47px;
+   outline: none;
+   border-bottom: 2px solid tomato;
+}
+input:hover{
+    border: 2px solid lightblue;
+}
+.icon i{
+    margin-right: 5%;
+    font-size: 25px;
+    color: black;
+}
+.contant{
+    margin-left: 12%;
+   color: black;
+}
+.contant a{
+    color: black;
+    margin-left: 20px;
+    padding: 10px;
+}
+hr{
+    margin-top: -1%;
+    color: blue;
+    
+}
+ul li a{
+    color: black;
+}
+li{
+    color: black;
+    list-style-type: none;
+}
+
+.font{
+    font-size: 14px;
+    color: black;
+    text-align: center;
+   margin-bottom: -5px;
+   
+    
+}
+.font:hover{
+    color: coral;
+   
+}
+.writer2{
+    margin-left: 10%;
+}
+
+/* -----------login------- */
+.text3{
+    font-size: 30px;
+    color: rgb(85, 166, 216);
+    text-decoration: none;
+    margin-left: 2%;
+    margin-right: 2%;
+    
+}
+.active{
+    color: tomato;
+    text-decoration: underline;
+}
+/* .text3:hover{
+    text-decoration: underline;
+    color: tomato;
+}
+.text4{
+    font-size: 30px;
+    color: tomato;
+    text-decoration: none;
+    margin-left: 2%;
+    margin-right: 2%;
+    
+}
+.text4:hover{
+    text-decoration: underline;
+} */
+.facebook{
+    background-color: #3B5999;
+    font-size: 20px;
+    color: #fff;
+}
+.facebook:hover{
+    background: #fff;
+    border: 2px solid #3B5999;
+    color: #3B5999;
+}
+.google{
+    background: tomato;
+    margin-left: 2%;
+    font-size: 20px;
+    color: #fff;
+}
+.google:hover{
+    background: #fff;
+    border: 2px solid tomato;
+    color: tomato;
+}
+.hero{
+    background: #fff;
+}
+.inp{
+    margin-left: 2%;
+    width: 80vh;
+    border: none;
+    border-bottom: 1px solid rgb(238, 215, 219);
+    outline: none;
+}
+.inp:hover{
+    outline: none;
+    border: none;
+    border-bottom: 1px solid ;
+}
+.inp .icon-3{
+    border-bottom: 2px solid tomato;
+    background: #fff;
+    border: none;
+
+}
+.remeber{
+    margin-left: 20%;
+    width: 18px;
+}
+.remeber1{
+    margin-left: 14%;
+    width: 18px;
+}
+.text{
+    margin-top: 2%;
+}
+.text1{
+    margin-top: 1.5%;
+}
+.text-2{
+    font-size: 25px;
+    color: cornflowerblue;
+    margin-top: -1%;
+}
+.captcha{
+    margin-left: 15%;
+}
+.account{
+    width: 60%;
+    text-align: center;
+    
+}
+/* <!-- --------------add the humayun page--------- --> */
+.text-3{
+    margin: 5%;
+    font-size: 15px;
+    
+    text-decoration: none;
+    
+}
+.text-3:hover{
+    list-style: initial;
+    border: 1px solid #888;
+}
+li a{
+    text-decoration: none;
+}
+.icon-1{
+    font-size: 20px;
+}
+.reset{
+    text-decoration: none;
+    margin-left: 40%;
+    border: none;
+    outline: none;
+}
+.overflow{
+   
+    color: white;
+    padding: 15px;
+    width: 100%;
+    height: 250px;
+    overflow: auto;
+    /* border: 1px solid #ccc; */
+}
+.background{
+    background: url(assets/author-background.png);
+    background-size: cover;
+}
+.bdr-1{
+    border: 1px solid #fff;
+    padding: 10px;
+     background: #fff;
+}
+.icon-2{
+    background: #fff;
+    border: none;
+    border-bottom: 1px solid #000;
+    outline: none;
+}
+.icon-2:hover{
+    border: none;
+    border-bottom: 1px solid #000;
+    outline: none;
+}
+.text2{
+    margin-top: 3%;
+}
+.remeber2{
+   margin-left: -10%;
+    width: 18px;
+}
+.filter{
+    background: #fff;
+    color: white;
+    /* padding: 15px; */
+    width: 100%;
+    height: 400px;
+    overflow: auto;
+    border-bottom: 2px solid #000;
+}
+.remeber3{
+    margin-left: 8%;
+    width: 18px;
+}
+.clear{
+    text-decoration: none;
+    /* margin-left: 40%; */
+    border: none;
+    outline: none;
+}
+.text-5{
+    font-size: 12px;
+}
+.text-6{
+
+    font-size: 15px;
+}
+
+/* ----------book--------- */
+.img-1{
+    width: 130px;
+    height: 186px;
+}
+.side{
+    width: 50%;
+    height: 30px;
+    text-align: center;
+    border: 2px solid #000;
+}
+    
+.nmb{
+    
+   
+    text-decoration: none;
+    
+   
+}
+.next{
+    
+    text-decoration: none;
+}
+ .num{
+     border: 1px solid #000;
+ }   
+    
+.pre{
+    width: 5%;
+    margin-left: 2%;
+    text-decoration: none;
+    margin-right: 2%;
+}
+.remeber4{
+    margin-left: 8%;
+    width: 18px;
+    
+}
+.remeber4 i{
+    color: tomato;
+}
+
+/* ----------book------deteelis---- */
+.body{
+    background: #888;
+}
+.bg-3{
+    background: #fff;
+}
+.book{
+    width: 95%;
+    height: auto;
+   border: 1px solid black;
+    
+}
+.icon-5{
+    font-size: 25px;
+   
+}
+.span{
+    color: lightskyblue;
+}
+.span-2{
+    background: tomato;
+    padding: 0px 5px;
+    border-radius: 5px 0 25px 0;
+}
+.text-7{
+    font-size: 14px;
+    color: teal;
+}
+.botton{
+    color: green;
+    border: 2px solid green;
+    background: #fff;
+    text-decoration: none;
+    padding: 10px;
+}
+.botton:hover{
+    color: #fff;
+    background: green;
+    border: 2px solid #fff;
+}
+.botton-1{
+    color: #fff;
+   margin-left: 10%;
+    background: tomato;
+    text-decoration: none;
+    padding: 10px;
+}
+.bnt{
+    text-decoration: none;
+    color: black;
+    margin: 5%;
+}
+.bg-4{
+    background: rgb(172, 168, 168);
+}
+
+/* ----------eletronic------ */
+
+.cat-btn{
+    margin-left: 40%;
+}
+.cat{
+    margin-left: 5%;
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    
+    padding: 5px;
+}
+.active-1{
+    border-top: 2px solid green;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+.Categorie{
+    text-decoration: none;
+    text-align: center;
+    
+    width: 100%;
+    color: #444546;
+    padding: 8px 0;
+    font-size: 13px;
+    margin: 0;
+    background: rgb(173, 166, 166);
+}
+
+.power{
+    width: 90%;
+    height: 200px;
+    border: 2px solid red;
+}
